@@ -49,8 +49,6 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ndzamboni&theme=radical)](https://wakatime.com)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ndzamboni&style=flat-square&color=blue)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ndzamboni&repo=portfolio-landing-page&theme=radical)](https://github.com/ndzamboni/portfolio-landing-page)
 
 
