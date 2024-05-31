@@ -1,4 +1,6 @@
 # Hi there, I'm Nick Zamboni! 👋
+I have become obsessed with learning to write code. I'm an emerging full stack developer and I'd love to connect with you to learn about what you're working on. 
+I also love gardening and growing vegetables, spending time with my family, pickleball, horror movies, and memes. 
 
 ### 🌐 Connect with me:
 
@@ -46,8 +48,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=radical)](https://git.io/streak-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ndzamboni&repo=portfolio-landing-page&theme=radical)](https://github.com/ndzamboni/portfolio-landing-page)
 
 
 **APIs:**
