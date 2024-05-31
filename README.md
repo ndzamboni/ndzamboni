@@ -59,12 +59,6 @@ I also love gardening and growing vegetables, spending time with my family, pick
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=radical)](https://git.io/streak-stats)
 
 
-**APIs:**
-
-![YouTube](https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![OMDB](https://img.shields.io/badge/OMDB%20API-003366?style=for-the-badge&logo=omdb&logoColor=white)
-![OpenWeather](https://img.shields.io/badge/OpenWeather%20API-007ACC?style=for-the-badge&logo=OpenWeather&logoColor=white)
-
 ### 📫 How to reach me:
 
 - Email: ndzamboni@gmail.com
