@@ -35,12 +35,6 @@
 - **[Zrilla - Horror/Thriller App](https://github.com/ndzamboni/zrilla-project1)**: A web app for horror and thriller movie enthusiasts.
 - **[Portfolio Landing Page](https://github.com/ndzamboni/portfolio-landing-page)**: My professional portfolio showcasing my skills and projects.
 
-
-### 🏆 Achievements:
-
-- **Quickdraw**: Achievement details here.
-- **YOLO**: Achievement details here.
-
 ### 📊 GitHub Stats:
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzamboni&show_icons=true&theme=radical)
@@ -48,6 +42,6 @@
 
 ### 📫 How to reach me:
 
-- Email: your-email@example.com
+- Email: ndzamboni@gmail.com
 - LinkedIn: [Nick Zamboni](https://www.linkedin.com/in/nick-zamboni-44664b10b/)
 - Twitter: [@NickZamb](https://twitter.com/NickZamb)
