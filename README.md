@@ -20,6 +20,8 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+
 
 **Tools:**
 
@@ -40,6 +42,23 @@
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzamboni&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzamboni&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=radical)](https://git.io/streak-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ndzamboni&theme=radical)](https://wakatime.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ndzamboni&style=flat-square&color=blue)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ndzamboni&repo=portfolio-landing-page&theme=radical)](https://github.com/ndzamboni/portfolio-landing-page)
+
+
+**APIs:**
+
+![YouTube](https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![OMDB](https://img.shields.io/badge/OMDB%20API-003366?style=for-the-badge&logo=omdb&logoColor=white)
+![OpenWeather](https://img.shields.io/badge/OpenWeather%20API-007ACC?style=for-the-badge&logo=OpenWeather&logoColor=white)
 
 ### 📫 How to reach me:
 
