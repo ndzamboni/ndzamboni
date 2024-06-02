@@ -50,7 +50,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 
 ### 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=shades-of-purple)](https://git.io/streak-stats)
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzamboni&show_icons=true&theme=radical)
 
