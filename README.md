@@ -58,6 +58,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=shades-of-purple)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=ndzamboni&style=flat-square&color=blue)
 
 ### 📫 How to reach me:
 
