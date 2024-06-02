@@ -56,7 +56,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzamboni&layout=compact&theme=shades-of-purple)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=shades-of-purple)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ndzamboni&style=flat-square&color=blue)
 
