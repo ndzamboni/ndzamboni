@@ -1,10 +1,10 @@
-![header CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=header&reversal=true&text=Nick%20Zamboni&fontAlignY=33&animation=fadeIn)
+![header CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&&color=0:EEFF00,100:a82da8&height=170&section=header&reversal=true&text=Nick%20Zamboni&fontAlignY=33&animation=fadeIn)
 
 # Hi there, I'm Nick Zamboni! 👋
 I have become obsessed with learning to write code. I'm an emerging full stack developer and I'd love to connect with you to learn about what you're working on. 
 I also love gardening and growing vegetables, spending time with my family, pickleball, horror movies, and memes. 
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&color=2D2B55&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
 
 ### 🌐 Connect with me:
 
