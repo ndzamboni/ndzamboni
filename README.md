@@ -1,10 +1,10 @@
-![header CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=170&section=header&reversal=true&text=Nick%20Zamboni&fontAlignY=33&animation=fadeIn)
+![header CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=170&section=header&reversal=true&text=Nick%20Zamboni&fontAlignY=33&animation=fadeIn)
 
 # Hi there, I'm Nick Zamboni! 👋
 I have become obsessed with learning to write code. I'm an emerging full stack developer and I'd love to connect with you to learn about what you're working on. 
 I also love gardening and growing vegetables, spending time with my family, pickleball, horror movies, and memes. 
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
 ### 🌐 Connect with me:
 
@@ -12,7 +12,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nick%20Zamboni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nick-zamboni-44664b10b/)
 [![Twitter](https://img.shields.io/badge/Twitter-@NickZamb-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/NickZamb)
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
 ### 🛠 Tech Stack:
 
@@ -23,7 +23,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
 **Frameworks and Libraries:**
 
@@ -34,7 +34,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Sortable.js](https://img.shields.io/badge/Sortable.js-3b5998?style=for-the-badge&logo=sortable&logoColor=white)
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
 **Tools:**
 
@@ -45,7 +45,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-555555?style=for-the-badge&logo=console&logoColor=white)
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
 **APIs:**
 
@@ -55,14 +55,14 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord%20API-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
 ### 💼 Projects:
 
 - **[Zrilla - Horror/Thriller App](https://github.com/ndzamboni/zrilla-project1)**: A web app for horror and thriller movie enthusiasts.
 - **[Portfolio Landing Page](https://github.com/ndzamboni/portfolio-landing-page)**: My professional portfolio showcasing my skills and projects.
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
 ### 📊 GitHub Stats:
 
@@ -74,7 +74,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
 ### 📫 How to reach me:
 
@@ -82,4 +82,4 @@ I also love gardening and growing vegetables, spending time with my family, pick
 - LinkedIn: [Nick Zamboni](https://www.linkedin.com/in/nick-zamboni-44664b10b/)
 - Twitter: [@NickZamb](https://twitter.com/NickZamb)
 
-![footer CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)
+![footer CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=80&section=footer)
