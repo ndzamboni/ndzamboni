@@ -1,4 +1,4 @@
-![header CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=170&section=header&reversal=true&text=Nick%20Zamboni&fontAlignY=33&animation=fadeIn)
+![header CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=170&section=header&reversal=true&text=Nick%20Zamboni&fontAlignY=33&animation=fadeIn)
 
 # Hi there, I'm Nick Zamboni! 👋
 I have become obsessed with learning to write code. I'm an emerging full stack developer and I'd love to connect with you to learn about what you're working on. 
