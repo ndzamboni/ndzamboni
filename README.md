@@ -33,6 +33,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Sortable.js](https://img.shields.io/badge/Sortable.js-3b5998?style=for-the-badge&logo=sortable&logoColor=white)
+[![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
