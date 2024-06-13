@@ -22,7 +22,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SQL Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql)
+![SQL Badge](https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=postgresql)
 
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
