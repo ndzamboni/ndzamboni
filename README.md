@@ -14,6 +14,18 @@ I also love gardening and growing vegetables, spending time with my family, pick
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
+### 📊 GitHub Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=shades-of-purple)](https://git.io/streak-stats)
+
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzamboni&show_icons=true&theme=shades-of-purple)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzamboni&layout=compact&theme=shades-of-purple) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
+
 ### 🛠 Tech Stack:
 
 **Languages:**
@@ -63,18 +75,6 @@ I also love gardening and growing vegetables, spending time with my family, pick
 
 - **[Zrilla - Horror/Thriller App](https://github.com/ndzamboni/zrilla-project1)**: A web app for horror and thriller movie enthusiasts.
 - **[Portfolio Landing Page](https://github.com/ndzamboni/portfolio-landing-page)**: My professional portfolio showcasing my skills and projects.
-
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
-
-### 📊 GitHub Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=shades-of-purple)](https://git.io/streak-stats)
-
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzamboni&show_icons=true&theme=shades-of-purple)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzamboni&layout=compact&theme=shades-of-purple) 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
