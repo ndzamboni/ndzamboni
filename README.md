@@ -34,6 +34,8 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
+
 **Frameworks and Libraries:**
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -41,6 +43,12 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Sortable.js](https://img.shields.io/badge/Sortable.js-3b5998?style=for-the-badge&logo=sortable&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white)
+![MJS](https://img.shields.io/badge/MJS-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
 **Tools:**
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -49,6 +57,14 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-555555?style=for-the-badge&logo=console&logoColor=white)
+![pg](https://img.shields.io/badge/pg-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Inquirer](https://img.shields.io/badge/Inquirer.js-000000?style=for-the-badge&logo=npm&logoColor=white)
+![Figlet](https://img.shields.io/badge/Figlet-000000?style=for-the-badge&logo=npm&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=npm&logoColor=white)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-000000?style=for-the-badge&logo=npm&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
 **APIs:**
 ![YouTube](https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
