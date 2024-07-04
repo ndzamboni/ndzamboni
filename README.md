@@ -85,7 +85,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 - **[Portfolio Landing Page](https://github.com/ndzamboni/portfolio-landing-page)**: My professional portfolio showcasing my skills and projects.
 - **[Discord Bot (Game with Friends Vision Board)](https://github.com/ndzamboni/bone-zone-vision-board.git)**: A discord bot that allows users to post games to play with friends and vote on those games.
 - **[Employee Database Tracker](https://github.com/ndzamboni/employeeTracker.git)**: A backend CLI Employee, Manager, Departments, Roles, Salary tracker.
-- **[High Quality READme Generator](https://github.com/ndzamboni/highQualReadMeGenerator.git)**: A backend app that allows for fast and automated READme creation with minimal user input.
+- **[High Quality README Generator](https://github.com/ndzamboni/highQualReadMeGenerator.git)**: A backend app that allows for fast and automated READme creation with minimal user input.
 - **[Survey App](https://github.com/ndzamboni/qr-survey-app.git)**: An app that stores Json in Render to collect data.
 - **[QR Code Generator](https://github.com/ndzamboni/qr-code-generator.git)**: A Backend app used to generate QR codes for any web service. Stores the QR codes as well. 
 
