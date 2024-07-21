@@ -82,6 +82,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ### 💼 Projects:
 
 - **[Content Management Service Blog](https://github.com/ndzamboni/Content_Management_System.git)**: A web service that is a template for any blog site structure.
+- - **[Potty Partner Social Media App](https://github.com/ndzamboni/Potty_Partner)**:Potty Partner is a web application designed to help users find bathrooms and leave reviews.
 - **[Zrilla - Horror/Thriller App](https://github.com/ndzamboni/zrilla-project1)**: A web app for horror and thriller movie enthusiasts.
 - **[Portfolio Landing Page](https://github.com/ndzamboni/portfolio-landing-page)**: My professional portfolio showcasing my skills and projects.
 - **[Discord Bot (Game with Friends Vision Board)](https://github.com/ndzamboni/bone-zone-vision-board.git)**: A discord bot that allows users to post games to play with friends and vote on those games.
