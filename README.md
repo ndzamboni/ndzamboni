@@ -1,3 +1,9 @@
+## My LeetCode Profile
+[Check out my LeetCode contributions]([https://leetcode.com/your-username](https://leetcode.com/u/Zambonator/)
+
+
+
+
 ![header CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=170&section=header&reversal=true&text=Nick%20Zamboni&fontAlignY=33&animation=fadeIn)
 
 # Hello there, I'm Nick Zamboni! 👋
