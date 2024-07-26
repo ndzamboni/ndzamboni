@@ -1,5 +1,5 @@
 ## My LeetCode Profile
-[Check out my LeetCode contributions]([https://leetcode.com/your-username](https://leetcode.com/u/Zambonator/))
+[Check out my LeetCode contributions](https://leetcode.com/u/Zambonator/)
 
 
 
