@@ -1,9 +1,3 @@
-## My LeetCode Profile
-[Check out my LeetCode contributions](https://leetcode.com/u/Zambonator/)
-
-
-
-
 ![header CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=170&section=header&reversal=true&text=Nick%20Zamboni&fontAlignY=33&animation=fadeIn)
 
 # Hello there, I'm Nick Zamboni! 👋
@@ -17,6 +11,11 @@ I also love gardening and growing vegetables, spending time with my family, pick
 [![GitHub](https://img.shields.io/badge/GitHub-ndzamboni-181717?style=for-the-badge&logo=github)](https://github.com/ndzamboni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nick%20Zamboni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nick-zamboni-44664b10b/)
 [![Twitter](https://img.shields.io/badge/Twitter-@NickZamb-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/NickZamb)
+
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
+
+### My LeetCode Profile
+[Check out my LeetCode contributions](https://leetcode.com/u/Zambonator/)
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
