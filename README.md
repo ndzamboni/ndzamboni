@@ -21,11 +21,11 @@ I also love gardening and growing vegetables, spending time with my family, pick
 
 ### 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=shades-of-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=shades-of-purple&card_width=350px)](https://git.io/streak-stats)
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzamboni&show_icons=true&theme=shades-of-purple&card_width=250px)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzamboni&show_icons=true&theme=shades-of-purple&card_width=350px)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzamboni&layout=compact&theme=shades-of-purple) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzamboni&layout=compact&theme=shades-of-purple&card_width=350px) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
