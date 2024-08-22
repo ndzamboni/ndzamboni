@@ -21,8 +21,6 @@ I also love gardening and growing vegetables, spending time with my family, pick
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=shades-of-purple&card_width=500px)](https://git.io/streak-stats)
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzamboni&show_icons=true&theme=shades-of-purple&card_width=500px)
@@ -30,8 +28,6 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzamboni&layout=compact&theme=shades-of-purple&card_width=500px) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
@@ -79,6 +75,13 @@ I also love gardening and growing vegetables, spending time with my family, pick
 - **[The Habit Tracker](https://github.com/ndzamboni/the-habit-tracker)**: A comprehensive tool designed to help users track and manage their habits effectively with a clean, responsive UI, and various chart options.
 - **[eCommerce Back End](https://github.com/ndzamboni/eCommerce)**: The initial back end for an eCommerce application, including an Express.js API, PostgreSQL database connection, and Sequelize ORM.
 - **[The SVG Generator App](https://github.com/ndzamboni/the-SVG-app)**: A web-based tool that allows users to create, manipulate, and export Scalable Vector Graphics (SVG) with advanced features like layer management and freehand drawing.
+- **[Content Management Service Blog](https://github.com/ndzamboni/Content_Management_System.git)**: A web service that is a template for any blog site structure.
+- **[Potty Partner Social Media App](https://github.com/ndzamboni/Potty_Partner)**: Potty Partner is a web application designed to help users find bathrooms and leave reviews.
+- **[Zrilla - Horror/Thriller App](https://github.com/ndzamboni/zrilla-project1)**: A web app for horror and thriller movie enthusiasts.
+- **[Discord Bot (Game with Friends Vision Board)](https://github.com/ndzamboni/bone-zone-vision-board.git)**: A discord bot that allows users to post games to play with friends and vote on those games.
+- **[Employee Database Tracker](https://github.com/ndzamboni/employeeTracker.git)**: A backend CLI Employee, Manager, Departments, Roles, Salary tracker.
+- **[Survey App](https://github.com/ndzamboni/qr-survey-app.git)**: An app that stores JSON in Render to collect data.
+- **[QR Code Generator](https://github.com/ndzamboni/qr-code-generator.git)**: A Backend app used to generate QR codes for any web service. Stores the QR codes as well. 
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
