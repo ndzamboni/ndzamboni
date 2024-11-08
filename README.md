@@ -70,6 +70,7 @@ I also love gardening and growing vegetables, spending time with my family, pick
 
 ### 💼 Projects:
 
+- **[HorrorBoxd](https://github.com/ndzamboni/horror-thriller-app)**: IN DEVELOPMENT
 - **[NexusInsight](https://github.com/TristinRohr/NexusInsight)**: A powerful League of Legends Summoner Stats Tracker.
 - **[Just Another Text Editor (J.A.T.E)](https://github.com/ndzamboni/text-editor)**: A Progressive Web Application (PWA) that enables users to create and store notes or code snippets directly in their web browser, with the added benefit of offline functionality.
 - **[SNAPI (Social Network API)](https://github.com/ndzamboni/SNAPI)**: Allows users to interact in a social network by creating and managing users, thoughts, reactions, and friendships. Built with Express.js, MongoDB, and Mongoose.
