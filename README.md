@@ -4,11 +4,6 @@
 I have become obsessed with learning to write code. I'm an emerging full stack developer and I'd love to connect with you to learn about what you're working on. 
 I also love gardening and growing vegetables, spending time with my family, pickleball, horror movies, and memes. 
 
-I have my certificate of completion of The Full Stack Flex Boot Camp at UNC-Chapel Hill
-
-
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/118079296" alt="My Certificate" width="300"/>](https://unc.credential.getsmarter.com/ff3a7a20-21c3-43f7-986d-2d712b94cdbd)
-
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
@@ -17,6 +12,12 @@ I have my certificate of completion of The Full Stack Flex Boot Camp at UNC-Chap
 [![GitHub](https://img.shields.io/badge/GitHub-ndzamboni-181717?style=for-the-badge&logo=github)](https://github.com/ndzamboni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nick%20Zamboni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nick-zamboni-44664b10b/)
 [![Twitter](https://img.shields.io/badge/Twitter-@NickZamb-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/NickZamb)
+
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
+
+### My Certifications
+
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/118079296" alt="My Certificate" width="300"/>](https://unc.credential.getsmarter.com/ff3a7a20-21c3-43f7-986d-2d712b94cdbd)
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
