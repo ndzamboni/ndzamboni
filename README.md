@@ -21,11 +21,6 @@ I also love gardening and growing vegetables, spending time with my family, pick
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
-### My LeetCode Profile
-[Check out my LeetCode contributions](https://leetcode.com/u/Zambonator/)
-
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
-
 ### 📊 GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndzamboni&theme=shades-of-purple&card_width=500px)](https://git.io/streak-stats)
@@ -35,6 +30,11 @@ I also love gardening and growing vegetables, spending time with my family, pick
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzamboni&layout=compact&theme=shades-of-purple&card_width=500px) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ndzamboni&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
+
+### My LeetCode Profile
+[Check out my LeetCode contributions](https://leetcode.com/u/Zambonator/)
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
