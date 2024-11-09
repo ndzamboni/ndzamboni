@@ -7,8 +7,8 @@ I also love gardening and growing vegetables, spending time with my family, pick
 I have my certificate of completion of The Full Stack Flex Boot Camp at UNC-Chapel Hill
 
 
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118079296" alt="My Badge" width="200"/>
-](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/118079296)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/118079296" alt="My Certificate" width="600"/>](https://unc.credential.getsmarter.com/ff3a7a20-21c3-43f7-986d-2d712b94cdbd)
+
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1&reversal=true)
 
