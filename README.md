@@ -5,6 +5,8 @@ I have become obsessed with learning to write code. I'm an emerging full stack d
 I also love gardening and growing vegetables, spending time with my family, pickleball, horror movies, and memes. 
 
 I have my certificate of completion of The Full Stack Flex Boot Camp at UNC-Chapel Hill
+
+
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118079296" alt="My Badge" width="200"/>
 
 
