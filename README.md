@@ -102,4 +102,6 @@ I also love gardening and growing vegetables, spending time with my family, pick
 - LinkedIn: [Nick Zamboni](https://www.linkedin.com/in/nick-zamboni-44664b10b/)
 - Twitter: [@NickZamb](https://twitter.com/NickZamb)
 
+- If you read this far then thank you for taking the time!
+
 ![footer CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=80&section=footer)
