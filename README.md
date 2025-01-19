@@ -1,6 +1,7 @@
 ![header CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=170&section=header&reversal=true&text=Nick%20Zamboni&fontAlignY=33&animation=fadeIn)
 
 # Hello there, I'm Nick Zamboni! 👋
+
 I have become obsessed with learning to write code. I'm an emerging full stack developer and I'd love to connect with you to learn about what you're working on. 
 Feel free to take time to review my projects and reach out if you want to connect.
 I also love gardening and growing vegetables, spending time with my family, pickleball, horror movies, and memes!
